@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "omenakuttan-2bb44",
+  "private_key_id": "bb92f0b044616bf6a623dd19e54c6047d6eb3b40",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCio79qlH+kxM39\njmcTiazb1mxzUqygdD1EPX4aRyUrvUTmr7loMsbA2M4vGsy+aFAhYQGdOhdQpfl/\nmyap4OOyqEpo/JXOg4Kozct/V6bQE618T9J628+teT/zbNPUHYl47wrxjzqOcMvW\nuelAc+5D7GQ6u8w67nINHOCRoYELgUxEpsm/FhsM5LbboMSVpI2OOFU8YQgOpDCc\nlGdbBsUyAWHJGCF0iqcLUPQbXfRhwayuEpLKLZMxdcl1dbE0oTx4SOoTkkNJTJLc\nyLEXQ3iA34vOImgvO3DYd7V2viq+dflWbrxXGB5O+S72WEZIVLxGYOYja2qWdjFv\nIsFUTY6HAgMBAAECggEAP8ZLAH2DgfZEOgl1hNVHKZsuwpfoJjD+dzxPrvk366tX\nkcfVQbUrd6JsU09EeuOHjFcwHVmSm+bBa5bItfOABeX0668kBStPeGbeRax2toAI\n1sasJ8365TC28Xq6o6IDbp75oRhDY2h6ndQf0UzEYPEYqmlKn88xfM/WhXSZmAs2\n+AyXOYabGkSxc2eFjJtzMbKNa1R0GjYmEF3yLbA46DFh/pH9vq+iNuxosgL/BFC3\ni276NFaVsXUcPmmW1lDM+KXb1R881jp5BG9DtGR5K1b2INkuoYtEmu/b/HFoZX+6\nhvJcBeZVWMuazCPAzCvXyPxQXzOj2xuYQzxLx19ZEQKBgQDNPidPqFifROQNdEqZ\nLt5fxv7HSotsuY/7Dxo1EdWIvdF7+QtdlNS8eCBScDwpOAh04RFAc0Vf0ZLnQBOp\n7afll/gv5894grDqZFBUhqBJxsaRlcdRsKiZPcKj7G+Q1n559webLcJWz1+OBfbO\n0UcN7U17DTj3ehEkJH7JqvNOdwKBgQDK3GeBo3w+RjBpK3opWRtSvVIKAiw9Nnvx\nOvmEHqRcuwL+XRt130nX12qNbqC9aGUgv3ypIynJuwmaRmtGfW7dQnq1/LstQyA3\nMT8TWuhKfzkIzlDSlBeBWWJNgGQo6/mhC92LUgZjJfSc16FldIG/+MuZ3x0n8Au9\n6ebxz/Z0cQKBgQCorH/aM1xB6HgTppL4OVCAHiac2mKjRA1UIyFCpBl9e6KB5Da2\n/e2nxoGpvptytJ4ekCmBcjp9eNrmOf7vFGV7ht1tYXFcdOu4diCeltV8TGQ8mX9p\nX2nwJpWj6lf2DJF84svZeE3S0jKRoc0oQ03F4FRg4IkEuckEjwmz605yGQKBgGZp\nAEP9AZL6oiPl1AUdu+J4Ovtcf3Ljl4x/pklhor5BltBMtrk54TB6yord533XPv5a\nTReh7c2ug7mDhVKPrjE7B3HqRaAi/BeA4APoZ858DZH5feng40Dkm/DeOTJDdsEr\nmUtlPF4/Yg7v+MWcHIiKlFZ4wWJRF8xnUbSPtS6xAoGABM3itLClsJVDAaC/2sGt\nAqKBnNzJ1pWrwTNXgdsI3cjyzAFoGgBEs6a0W71XEo0j3LNJgHvavDBAlFutATFV\nTgxOxnAjkeAA7S5k/PlWdgkT3iRqcNxKqM6cacbrY6Hmik6/ZrbKKDUhz6i81LG2\nR+5QFsw2hJwgafm3eVhI6mc=\n-----END PRIVATE KEY-----\n",
+  "client_email": "angelhack-omenakuttan@omenakuttan-2bb44.iam.gserviceaccount.com",
+  "client_id": "105713007734740848836",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://accounts.google.com/o/oauth2/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/angelhack-omenakuttan%40omenakuttan-2bb44.iam.gserviceaccount.com"
+}
